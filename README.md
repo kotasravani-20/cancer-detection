@@ -39,16 +39,11 @@ We evaluate the models using the following metrics:
 - **F1-score**: Harmonic mean of precision and recall.
 
 ## Usage
-
-There are two ways that you can work with this project:
-
-1. <a href="https://colab.research.google.com/github/barzansaeedpour/cancer-detection/blob/main/cancer_classifier.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
-2. Clone this repository
+Clone this repository
 
   
    ```
-   git clone https://github.com/barzansaeedpour/cancer-detection.git
+   [git clone https://github.com/barzansaeedpour/cancer-detection.git](https://github.com/kotasravani-20/cancer-detection.git)
    ```
 
    Navigate to the appropriate directory and run the Jupyter notebooks or Python scripts to explore the data, preprocess it, and train the models.
